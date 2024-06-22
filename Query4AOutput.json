@@ -1,0 +1,135 @@
+[{
+  "_id": "drinks",
+  "totalSales": 150.17,
+  "totalQuantity": 78,
+  "inventoryInfo": {
+    "name": "chocolate milkshake",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "drinks",
+  "totalSales": 150.17,
+  "totalQuantity": 78,
+  "inventoryInfo": {
+    "name": "strawberry juice",
+    "inventory_quantity": 8
+  }
+},
+{
+  "_id": "drinks",
+  "totalSales": 150.17,
+  "totalQuantity": 78,
+  "inventoryInfo": {
+    "name": "costa mini coffee",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "drinks",
+  "totalSales": 150.17,
+  "totalQuantity": 78,
+  "inventoryInfo": {
+    "name": "sprite zero",
+    "inventory_quantity": 32
+  }
+},
+{
+  "_id": "drinks",
+  "totalSales": 150.17,
+  "totalQuantity": 78,
+  "inventoryInfo": {
+    "name": "blueberry lemonade",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "fruits and vegetables",
+  "totalSales": 70,
+  "totalQuantity": 44,
+  "inventoryInfo": {
+    "name": "apple",
+    "inventory_quantity": 3
+  }
+},
+{
+  "_id": "fruits and vegetables",
+  "totalSales": 70,
+  "totalQuantity": 44,
+  "inventoryInfo": {
+    "name": "banana",
+    "inventory_quantity": 10
+  }
+},
+{
+  "_id": "fruits and vegetables",
+  "totalSales": 70,
+  "totalQuantity": 44,
+  "inventoryInfo": {
+    "name": "mango",
+    "inventory_quantity": 28
+  }
+},
+{
+  "_id": "fruits and vegetables",
+  "totalSales": 70,
+  "totalQuantity": 44,
+  "inventoryInfo": {
+    "name": "avocado",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "fruits and vegetables",
+  "totalSales": 70,
+  "totalQuantity": 44,
+  "inventoryInfo": {
+    "name": "pineapple",
+    "inventory_quantity": 8
+  }
+},
+{
+  "_id": "bakery",
+  "totalSales": 151.5,
+  "totalQuantity": 101,
+  "inventoryInfo": {
+    "name": "pain au chocolat",
+    "inventory_quantity": 70
+  }
+},
+{
+  "_id": "bakery",
+  "totalSales": 151.5,
+  "totalQuantity": 101,
+  "inventoryInfo": {
+    "name": "donut",
+    "inventory_quantity": 20
+  }
+},
+{
+  "_id": "bakery",
+  "totalSales": 151.5,
+  "totalQuantity": 101,
+  "inventoryInfo": {
+    "name": "cupcake",
+    "inventory_quantity": 7
+  }
+},
+{
+  "_id": "bakery",
+  "totalSales": 151.5,
+  "totalQuantity": 101,
+  "inventoryInfo": {
+    "name": "white chocolate cake",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "bakery",
+  "totalSales": 151.5,
+  "totalQuantity": 101,
+  "inventoryInfo": {
+    "name": "almond croissant",
+    "inventory_quantity": 5
+  }
+}]

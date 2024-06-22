@@ -1,0 +1,58 @@
+db.PastOrders.aggregate([
+    {
+      $unwind: "$order_items"
+    },
+    {
+      $lookup: {
+        from: "FreshProducts",
+        localField: "order_items.product_id",
+        foreignField: "_id",
+        as: "freshProduct"
+      }
+    },
+    {
+      $unwind: "$freshProduct"
+    },
+    {
+      $match: {
+        "freshProduct.type": { $in: ["bakery", "fruits and vegetables", "drinks"] }
+      }
+    },
+    {
+      $group: {
+        _id: "$freshProduct.type",
+        totalSales: { $sum: { $multiply: ["$order_items.quantity", "$freshProduct.standard_price"] } },
+        totalQuantity: { $sum: "$order_items.quantity" }
+      }
+    },
+    {
+      $lookup: {
+        from: "FreshProducts",
+        localField: "_id",
+        foreignField: "type",
+        as: "inventoryInfo"
+      }
+    },
+    {
+      $unwind: "$inventoryInfo"
+    },
+    {
+      $unwind: "$inventoryInfo.daily_inventory_level"
+    },
+    {
+      $match: {
+        "inventoryInfo.daily_inventory_level.date": new Date("2023-12-06")
+      }
+    },
+    {
+      $project: {
+        _id: 1,
+        totalSales: 1,
+        totalQuantity: 1,
+        inventoryInfo: {
+          name: 1,
+          inventory_quantity: "$inventoryInfo.daily_inventory_level.inventory_quantity"
+        }
+      }
+    }
+  ])

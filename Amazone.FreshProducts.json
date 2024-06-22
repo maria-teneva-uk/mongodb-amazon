@@ -1,0 +1,615 @@
+[{
+  "_id": {
+    "$oid": "6574da368411eb2fd2e800f7"
+  },
+  "name": "chocolate milkshake",
+  "description": "made with British 1% fat milk drink",
+  "dimensions": "7x7x25cm",
+  "type": "drinks",
+  "average_rating": 3.5,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 7,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "shipping_quantity": "1L",
+  "standard_price": 0.99,
+  "cost_for_amazone": 0.2
+},
+{
+  "_id": {
+    "$oid": "6574fefd8feff499e870168a"
+  },
+  "name": "strawberry juice",
+  "description": "Sugarfree fresh strawberry juice",
+  "dimensions": "10x10x15cm",
+  "type": "drinks",
+  "average_rating": 3,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 9,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2024-12-31T23:59:59.000Z"
+  },
+  "shipping_quantity": "300ml",
+  "standard_price": 2.5,
+  "cost_for_amazone": 0.6
+},
+{
+  "_id": {
+    "$oid": "6571f925e991f6cac38e0295"
+  },
+  "name": "apple",
+  "description": "a fruity delight",
+  "dimensions": "15x15x15cm",
+  "type": "fruits and vegetables",
+  "average_rating": 3.9,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 3,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-17T20:14:14.796Z"
+  },
+  "shipping_weight": "100g",
+  "standard_price": 0.4,
+  "cost_for_amazone": 0.05
+},
+{
+  "_id": {
+    "$oid": "6575d6a2fdfd2265e035ad24"
+  },
+  "name": "costa mini coffee",
+  "description": "small to-go coffee",
+  "dimensions": "4x2x2cm",
+  "type": "drinks",
+  "average_rating": 3,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 52.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2024-01-10T20:14:14.796Z"
+  },
+  "shipping_quantity": "200ml",
+  "standard_price": 3,
+  "cost_for_amazone": 0.2
+},
+{
+  "_id": {
+    "$oid": "65759552fdfd2265e035acc4"
+  },
+  "name": "pain au chocolat",
+  "description": "Delicious chocolatey snack",
+  "dimensions": "15x15x15cm",
+  "type": "bakery",
+  "average_rating": 5,
+  "country_of_origin": "France",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 70,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 72,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "standard_price": 1.2,
+  "shipping_weight": "80g",
+  "cost_for_amazone": 0.45
+},
+{
+  "_id": {
+    "$oid": "6575d6a2fdfd2265e035ad22"
+  },
+  "name": "donut",
+  "description": "sweet treat",
+  "dimensions": "3x3x3cm",
+  "type": "bakery",
+  "average_rating": 5,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 20,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 24,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-30T20:14:14.796Z"
+  },
+  "standard_price": 1,
+  "cost_for_amazone": 1,
+  "shipping_weight": "1g"
+},
+{
+  "_id": {
+    "$oid": "657594b3fdfd2265e035acc3"
+  },
+  "name": "sprite zero",
+  "description": "Grab a can!",
+  "dimensions": "30x20x20cm",
+  "type": "drinks",
+  "average_rating": 3.3,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 32,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 40,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2025-12-22T20:14:14.796Z"
+  },
+  "shipping_quantity": "500ml",
+  "standard_price": 2,
+  "cost_for_amazone": 0.2
+},
+{
+  "_id": {
+    "$oid": "6574f4258feff499e8701685"
+  },
+  "name": "banana",
+  "description": "A nutritious fruit",
+  "dimensions": "Approximately 18cm in length",
+  "type": "fruits and vegetables",
+  "average_rating": 4.2,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 10,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 15,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-31T23:59:59.000Z"
+  },
+  "shipping_weight": "150g",
+  "standard_price": 0.5,
+  "cost_for_amazone": 0.06
+},
+{
+  "_id": {
+    "$oid": "65759eae4d572575c91d1f93"
+  },
+  "name": "mango",
+  "description": "Imported and sweet fruit",
+  "dimensions": "10cm in length",
+  "type": "fruits and vegetables",
+  "average_rating": 4.2,
+  "cost_for_amazone": 0.5,
+  "country_of_origin": "India",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 28,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 33,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-24T23:59:59.000Z"
+  },
+  "shipping_weight": "150g",
+  "standard_price": 1.2
+},
+{
+  "_id": {
+    "$oid": "6575a0854d572575c91d1f95"
+  },
+  "name": "blueberry lemonade",
+  "description": "fresh lemonade with bluberry flavour",
+  "dimensions": "10x10x5",
+  "type": "drinks",
+  "average_rating": 4.1,
+  "cost_for_amazone": 0.3,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 17,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-13T23:59:59.000Z"
+  },
+  "shipping_quantity": "150ml",
+  "standard_price": 1.3
+},
+{
+  "_id": {
+    "$oid": "6574f9ce8feff499e8701688"
+  },
+  "name": "cupcake",
+  "description": "A sweet chocolate baked treat",
+  "dimensions": "5x5x5cm",
+  "type": "bakery",
+  "average_rating": 4.5,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 7,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2024-06-30T23:59:59.000Z"
+  },
+  "shipping_weight": "50g",
+  "standard_price": 1.5,
+  "cost_for_amazone": 0.4
+},
+{
+  "_id": {
+    "$oid": "65759f9b4d572575c91d1f94"
+  },
+  "name": "white chocolate cake",
+  "description": "3 layers with white chocolate",
+  "dimensions": "12x15x3",
+  "type": "bakery",
+  "average_rating": 2.2,
+  "cost_for_amazone": 0.7,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 6,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-15T23:59:59.000Z"
+  },
+  "shipping_weight": "450g",
+  "standard_price": 4.6
+},
+{
+  "_id": {
+    "$oid": "6575d6a2fdfd2265e035ad23"
+  },
+  "name": "avocado",
+  "description": "healthy vegetable",
+  "dimensions": "4x2x2cm",
+  "type": "fruits and vegetables",
+  "average_rating": 5,
+  "country_of_origin": "Costa rica",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 52.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2024-01-10T20:14:14.796Z"
+  },
+  "shipping_weight": "10g",
+  "standard_price": 4,
+  "cost_for_amazone": 0.5
+},
+{
+  "_id": {
+    "$oid": "6574d3208411eb2fd2e800f3"
+  },
+  "name": "almond croissant",
+  "description": "almond filling topped with flaked almond and sugar dusting",
+  "dimensions": "10x5x5cm",
+  "type": "bakery",
+  "average_rating": 4.7,
+  "country_of_origin": "United Kingdom",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 6,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "shipping_weight": "95g",
+  "standard_price": 1.4,
+  "cost_for_amazone": 0.35
+},
+{
+  "_id": {
+    "$oid": "6574d4dd8411eb2fd2e800f4"
+  },
+  "name": "pineapple",
+  "description": "1 of your 5 a day",
+  "dimensions": "10x3cm",
+  "type": "fruits and vegetables",
+  "average_rating": 3.2,
+  "country_of_origin": "Brazil",
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 10,
+      "storage_warehouse_location": {
+        "latitude": 53.4332,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Withington Warehouse"
+    }
+  ],
+  "expiry_date": {
+    "$date": "2023-12-17T20:14:14.796Z"
+  },
+  "shipping_weight": "90g",
+  "standard_price": 1,
+  "cost_for_amazone": 0.55
+}]

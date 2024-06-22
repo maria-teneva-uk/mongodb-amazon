@@ -1,0 +1,155 @@
+db.getCollection('Customers').aggregate(
+  [
+    { $unwind: '$current_orders' },
+    { $unwind: '$current_orders.order_items' },
+    {
+      $lookup: {
+        from: 'FreshProducts',
+        localField:
+          'current_orders.order_items.product_id',
+        foreignField: '_id',
+        as: 'freshProductDetails'
+      }
+    },
+    {
+      $addFields: {
+        isCurrentOrderFreshProduct: {
+          $cond: {
+            if: {
+              $gt: [
+                { $size: '$freshProductDetails' },
+                0
+              ]
+            },
+            then: true,
+            else: false
+          }
+        }
+      }
+    },
+    {
+      $match: { isCurrentOrderFreshProduct: true }
+    },
+    { $limit: 1 },
+    {
+      $lookup: {
+        from: 'Stores',
+        localField:
+          'current_orders.order_items.product_id',
+        foreignField:
+          'available_for_pickup_product_ids',
+        as: 'availableStores'
+      }
+    },
+    {
+      $lookup: {
+        from: 'Partners',
+        localField: 'isCurrentOrderFreshProduct',
+        foreignField: 'available',
+        as: 'availablePartners'
+      }
+    },
+    { $unwind: '$availableStores' },
+    {
+      $addFields: {
+        CustomerLatitude: '$location.latitude',
+        CustomerLongitude: '$location.longitude',
+        storeLatitude:
+          '$availableStores.location.latitude',
+        storeLongitude:
+          '$availableStores.location.longitude'
+      }
+    },
+    {
+      $addFields: {
+        distanceToStore: {
+          $sqrt: {
+            $sum: [
+              {
+                $pow: [
+                  {
+                    $subtract: [
+                      '$storeLongitude',
+                      '$CustomerLongitude'
+                    ]
+                  },
+                  2
+                ]
+              },
+              {
+                $pow: [
+                  {
+                    $subtract: [
+                      '$storeLatitude',
+                      '$CustomerLatitude'
+                    ]
+                  },
+                  2
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    { $sort: { distanceToStore: 1 } },
+    { $limit: 1 },
+    { $unwind: '$availablePartners' },
+    {
+      $addFields: {
+        partnerLatitude:
+          '$availablePartners.location.latitude',
+        partnerLongitude:
+          '$availablePartners.location.longitude',
+        storeLatitude:
+          '$availableStores.location.latitude',
+        storeLongitude:
+          '$availableStores.location.longitude'
+      }
+    },
+    {
+      $addFields: {
+        distancePartnerStore: {
+          $sqrt: {
+            $sum: [
+              {
+                $pow: [
+                  {
+                    $subtract: [
+                      '$partnerLongitude',
+                      '$storeLongitude'
+                    ]
+                  },
+                  2
+                ]
+              },
+              {
+                $pow: [
+                  {
+                    $subtract: [
+                      '$partnerLatitude',
+                      '$storeLatitude'
+                    ]
+                  },
+                  2
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    { $sort: { distancePartnerStore: 1 } },
+    { $limit: 1 },
+    {
+      $project: {
+        _id: 1,
+        first_name: 1,
+        last_name: 1,
+        freshProductDetails: 1,
+        availablePartners: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

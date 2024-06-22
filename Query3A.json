@@ -1,0 +1,10 @@
+db.getCollection('Customers').find(
+    { 'current_orders.status': 'paid' },
+    {
+      _id: 1,
+      current_orders: 1,
+      first_name: 1,
+      last_name: 1
+    }
+  )
+  .limit(1);

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "first_name": "Michael",
+  "last_name": "Smith",
+  "freshProductDetails": [
+    {
+      "_id": {
+        "$oid": "6575d6a2fdfd2265e035ad22"
+      },
+      "name": "donut",
+      "description": "sweet treat",
+      "dimensions": "3x3x3cm",
+      "type": "bakery",
+      "average_rating": 5,
+      "country_of_origin": "United Kingdom",
+      "daily_inventory_level": [
+        {
+          "date": {
+            "$date": "2023-12-06T00:00:00.000Z"
+          },
+          "inventory_quantity": 20,
+          "storage_warehouse_location": {
+            "latitude": 53.4332,
+            "longitude": -2.2329
+          },
+          "storage_warehouse_name": "Withington Warehouse"
+        },
+        {
+          "date": {
+            "$date": "2023-12-05T00:00:00.000Z"
+          },
+          "inventory_quantity": 24,
+          "storage_warehouse_location": {
+            "latitude": 53.4332,
+            "longitude": -2.2329
+          },
+          "storage_warehouse_name": "Withington Warehouse"
+        }
+      ],
+      "expiry_date": {
+        "$date": "2023-12-30T20:14:14.796Z"
+      },
+      "standard_price": 1,
+      "cost_for_amazone": 1,
+      "shipping_weight": "1g"
+    }
+  ],
+  "availablePartners": {
+    "_id": {
+      "$oid": "65761d828d236f137cd0e4c9"
+    },
+    "first_name": "Andy",
+    "last_name": "John",
+    "gender": "M",
+    "age": 23,
+    "address": {
+      "street": "Oak Street",
+      "city": "Manchester",
+      "postcode": "M15 P98",
+      "house_number": 45
+    },
+    "location": {
+      "latitude": 53.45637,
+      "longitude": -2.25255
+    },
+    "active": true,
+    "available": true,
+    "average_rating": 4.8,
+    "orders_delivered": [
+      {
+        "order_id": {
+          "$oid": "657643f48d236f137cd0e51b"
+        }
+      },
+      {
+        "order_id": {
+          "$oid": "657643f48d236f137cd0e511"
+        }
+      }
+    ]
+  }
+}]

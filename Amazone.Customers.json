@@ -1,0 +1,1314 @@
+[{
+  "_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "first_name": "Richard",
+  "last_name": "Webber",
+  "gender": "M",
+  "age": 39,
+  "addresses": [
+    {
+      "house_number": 2,
+      "street": "St Peter's Sq",
+      "city": "Manchester",
+      "postcode": "M2 3DF",
+      "type": "shipping"
+    },
+    {
+      "house_number": 30,
+      "street": "Worsley St",
+      "city": "Manchester",
+      "postcode": "M15 4JP",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.47816,
+    "longitude": -2.24291
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579cb6fa78ce043a135c8b1"
+          },
+          "quantity": 3
+        },
+        {
+          "product_id": {
+            "$oid": "6579cb89a78ce043a135c8b5"
+          },
+          "quantity": 3
+        }
+      ],
+      "partner_id": {
+        "$oid": "6579c673a78ce043a135c8ac"
+      },
+      "total_cost": 7.17,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579c783a78ce043a135c8ad"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 438,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6575d50efdfd2265e035ad19"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "first_name": "Walter",
+  "last_name": "White",
+  "gender": "M",
+  "age": 65,
+  "addresses": [
+    {
+      "house_number": 3,
+      "street": "Palm Building",
+      "city": "Manchester",
+      "postcode": "M13 576",
+      "type": "shipping"
+    },
+    {
+      "house_number": 3,
+      "street": "Palm Building",
+      "city": "Manchester",
+      "postcode": "M13 576",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.456,
+    "longitude": -2.25249
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65758f55fdfd2265e035acbc"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 6.09,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657591aafdfd2265e035acbe"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 549,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575fdff8411eb2fd2e80138"
+    },
+    {
+      "$oid": "6574f1cb8411eb2fd2e80102"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "first_name": "Derek",
+  "last_name": "Shepherd",
+  "gender": "M",
+  "age": 32,
+  "addresses": [
+    {
+      "house_number": 30,
+      "street": "Bedford Road",
+      "city": "Manchester",
+      "postcode": "M16 0JA",
+      "type": "shipping"
+    },
+    {
+      "house_number": 30,
+      "street": "Bedford Road",
+      "city": "Manchester",
+      "postcode": "M16 0JA",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.477876,
+    "longitude": -2.243328
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579cb73a78ce043a135c8b2"
+          },
+          "quantity": 1
+        },
+        {
+          "product_id": {
+            "$oid": "6579cb8ea78ce043a135c8b6"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 15.99,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579c786a78ce043a135c8ae"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 298,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575bbc24d572575c91d1f98"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "first_name": "Amy",
+  "last_name": "Pond",
+  "gender": "F",
+  "age": 32,
+  "addresses": [
+    {
+      "house_number": 60,
+      "street": "Hill Lane",
+      "city": "Manchester",
+      "postcode": "M12 7PC",
+      "type": "shipping"
+    },
+    {
+      "house_number": 60,
+      "street": "Hill Lane",
+      "city": "Manchester",
+      "postcode": "M12 7PC",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.45929,
+    "longitude": -2.25236
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575d6a2fdfd2265e035ad24"
+          },
+          "quantity": 2
+        }
+      ],
+      "partner_id": {
+        "$oid": "65761d828d236f137cd0e4c9"
+      },
+      "total_cost": 6,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575d50efdfd2265e035ad1c"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 500,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575fdff8411eb2fd2e80138"
+    },
+    {
+      "$oid": "6574e9218411eb2fd2e800fd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "first_name": "Hannah",
+  "last_name": "Montain",
+  "gender": "F",
+  "age": 25,
+  "addresses": [
+    {
+      "house_number": 23,
+      "street": "Harding Street",
+      "city": "Manchester",
+      "postcode": "M4 7DR",
+      "type": "shipping"
+    },
+    {
+      "house_number": 23,
+      "street": "Harding Street",
+      "city": "Manchester",
+      "postcode": "M4 7DR",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.480326,
+    "longitude": -2.215466
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "65773f158411eb2fd2e801eb"
+      },
+      "total_cost": 2.5,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574fefd8feff499e870168a"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 30.5,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657512b48feff499e8701694"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "first_name": "Ralph",
+  "last_name": "Lauren",
+  "gender": "M",
+  "age": 39,
+  "addresses": [
+    {
+      "house_number": 13,
+      "street": "Cheltham Road",
+      "city": "Manchester",
+      "postcode": "M98 345",
+      "type": "shipping"
+    },
+    {
+      "house_number": 29,
+      "street": "Liverpool St",
+      "city": "Liverpool",
+      "postcode": "L01 034",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.4779,
+    "longitude": -2.2709
+  },
+  "current_orders": [
+    {
+      "total_cost": 438,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575bd744d572575c91d1f9a"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 298,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575bf804d572575c91d1f9d"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574e8248411eb2fd2e800fc"
+    },
+    {
+      "$oid": "6575d50efdfd2265e035ad1d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "first_name": "Kathryn",
+  "last_name": "Avery",
+  "gender": "F",
+  "age": 52,
+  "addresses": [
+    {
+      "house_number": 31,
+      "street": "W Mosley St",
+      "city": "Manchester",
+      "postcode": "M2 3AG",
+      "type": "shipping"
+    },
+    {
+      "house_number": 1,
+      "street": "Quay St",
+      "city": "Manchester",
+      "postcode": "M3 3HN",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.48049,
+    "longitude": -2.24006
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579cb7ca78ce043a135c8b4"
+          },
+          "quantity": 2
+        },
+        {
+          "product_id": {
+            "$oid": "6579cb94a78ce043a135c8b7"
+          },
+          "quantity": 1
+        }
+      ],
+      "partner_id": {
+        "$oid": "6579c66ea78ce043a135c8ab"
+      },
+      "total_cost": 3.8,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579c78da78ce043a135c8b0"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 429,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657506d78feff499e870168f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "first_name": "Michael",
+  "last_name": "Smith",
+  "gender": "M",
+  "age": 49,
+  "addresses": [
+    {
+      "house_number": 3,
+      "street": "Meadow Lane",
+      "city": "Manchester",
+      "postcode": "M16 7YT",
+      "type": "shipping"
+    },
+    {
+      "house_number": 3,
+      "street": "Meadow Lane",
+      "city": "Manchester",
+      "postcode": "M16 7YT",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.45876,
+    "longitude": -2.25232
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575d6a2fdfd2265e035ad22"
+          },
+          "quantity": 5
+        }
+      ],
+      "partner_id": {
+        "$oid": "65761d828d236f137cd0e4c9"
+      },
+      "total_cost": 5,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657514828feff499e8701695"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 699,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575d50efdfd2265e035ad1d"
+    },
+    {
+      "$oid": "6574f1cb8411eb2fd2e80102"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "first_name": "Jojo",
+  "last_name": "Sewa",
+  "gender": "F",
+  "age": 23,
+  "addresses": [
+    {
+      "house_number": 16,
+      "street": "Connie Street",
+      "city": "Manchester",
+      "postcode": "M11 2JT",
+      "type": "shipping"
+    },
+    {
+      "house_number": 16,
+      "street": "Connie Street",
+      "city": "Manchester",
+      "postcode": "M11 2JT",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.458428,
+    "longitude": -2.21442
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "65773f158411eb2fd2e801eb"
+      },
+      "total_cost": 15.5,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65750fd38feff499e8701693"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 699,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657514828feff499e8701695"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574edc28411eb2fd2e80100"
+    },
+    {
+      "$oid": "657506fd8feff499e8701690"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "first_name": "Gary",
+  "last_name": "Smith",
+  "gender": "M",
+  "age": 54,
+  "addresses": [
+    {
+      "house_number": 6,
+      "street": "Square Street",
+      "city": "Manchester",
+      "postcode": "M14 765",
+      "type": "shipping"
+    },
+    {
+      "house_number": 3,
+      "street": "Palm Building",
+      "city": "Manchester",
+      "postcode": "M13 576",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.945792,
+    "longitude": -2.2502
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574de4f8411eb2fd2e800f9"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 13.99,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574e9218411eb2fd2e800fd"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 12.99,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575d50efdfd2265e035ad1d"
+    },
+    {
+      "$oid": "657593a9fdfd2265e035acc1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "first_name": "Sarah",
+  "last_name": "Entwistle",
+  "gender": "F",
+  "age": 30,
+  "addresses": [
+    {
+      "house_number": 5,
+      "street": "brooke street",
+      "city": "Manchester",
+      "postcode": "OL9 6NN",
+      "type": "shipping"
+    },
+    {
+      "house_number": 5,
+      "street": "brooke street",
+      "city": "Manchester",
+      "postcode": "OL9 6NN",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.546813,
+    "longitude": -2.135735
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "6571e9f1d0e61922139c57f6"
+      },
+      "total_cost": 6,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574f9ce8feff499e8701688"
+          },
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "total_cost": 106.09,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574edc28411eb2fd2e80100"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574f1cb8411eb2fd2e80102"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657716fcd1c104226794e80d"
+  },
+  "first_name": "Lilly",
+  "last_name": "Reinhart",
+  "gender": "F",
+  "age": 36,
+  "addresses": [
+    {
+      "house_number": 10,
+      "street": "Ladybarn Ave",
+      "city": "Manchester",
+      "postcode": "M31 345",
+      "type": "shipping"
+    },
+    {
+      "house_number": 13,
+      "street": "Bolton St",
+      "city": "Manchester",
+      "postcode": "B32 034",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.4783,
+    "longitude": -2.2731
+  },
+  "current_orders": [
+    {
+      "total_cost": 24,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575a9f44d572575c91d1f97"
+          },
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "total_cost": 12,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575bbc24d572575c91d1f99"
+          },
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574e9218411eb2fd2e800fd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "first_name": "Evlampia",
+  "last_name": "Con",
+  "gender": "F",
+  "age": 22,
+  "addresses": [
+    {
+      "house_number": 45,
+      "street": "Upper Brook Street",
+      "city": "Manchester",
+      "postcode": "M13 9WS",
+      "type": "shipping"
+    },
+    {
+      "house_number": 45,
+      "street": "Upper Brook Street",
+      "city": "Manchester",
+      "postcode": "M13 9WS",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.463491,
+    "longitude": -2.216447
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "65773f158411eb2fd2e801eb"
+      },
+      "total_cost": 0.5,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6574f4258feff499e8701685"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 800,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575159e8feff499e8701697"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6571f8e1e991f6cac38e0290"
+    },
+    {
+      "$oid": "65758df4fdfd2265e035acbb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "first_name": "Miranda",
+  "last_name": "Bailey",
+  "gender": "F",
+  "age": 37,
+  "addresses": [
+    {
+      "house_number": 2,
+      "street": "Sorrel St",
+      "city": "Manchester",
+      "postcode": "M15 5SR",
+      "type": "shipping"
+    },
+    {
+      "house_number": 70,
+      "street": "Quenby St",
+      "city": "Manchester",
+      "postcode": "M15 4HW",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.479244,
+    "longitude": -2.251929
+  },
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579cb78a78ce043a135c8b3"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 99.9,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579c789a78ce043a135c8af"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 7.85,
+      "status": "paid"
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "6574ecd78411eb2fd2e800ff"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "first_name": "Nate",
+  "last_name": "Winton",
+  "gender": "M",
+  "age": 20,
+  "addresses": [
+    {
+      "house_number": 2,
+      "street": "Old Mill St",
+      "city": "Manchester",
+      "postcode": "M4 6NA",
+      "type": "billing"
+    },
+    {
+      "house_number": 2,
+      "street": "Old Mill St",
+      "city": "Manchester",
+      "postcode": "M4 6NA",
+      "type": "shipping"
+    }
+  ],
+  "location": {
+    "latitude": 53.53647,
+    "longitude": -2.119967
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "6571e9f1d0e61922139c57f6"
+      },
+      "total_cost": 2.4,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6571f925e991f6cac38e0295"
+          },
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "total_cost": 5,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6571f8e1e991f6cac38e0290"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "65758df4fdfd2265e035acbb"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "first_name": "Matt",
+  "last_name": "Watts",
+  "gender": "M",
+  "age": 23,
+  "addresses": [
+    {
+      "house_number": 109,
+      "street": "windsor road",
+      "city": "Manchester",
+      "postcode": "OL8 1RQ",
+      "type": "billing"
+    },
+    {
+      "house_number": 109,
+      "street": "windsor road",
+      "city": "Manchester",
+      "postcode": "OL8 1RQ",
+      "type": "shipping"
+    }
+  ],
+  "location": {
+    "latitude": 53.533813,
+    "longitude": -2.124338
+  },
+  "current_orders": [
+    {
+      "total_cost": 6.09,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65758f55fdfd2265e035acbc"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 19.31,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65759088fdfd2265e035acbd"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574ecd78411eb2fd2e800ff"
+    },
+    {
+      "$oid": "657591aafdfd2265e035acbe"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "first_name": "Mila",
+  "last_name": "Arnold",
+  "gender": "F",
+  "age": 21,
+  "addresses": [
+    {
+      "house_number": 21,
+      "street": "Salford Quays St",
+      "city": "Manchester",
+      "postcode": "M34 506",
+      "type": "shipping"
+    },
+    {
+      "house_number": 21,
+      "street": "Salford Quays St",
+      "city": "Manchester",
+      "postcode": "M34 506",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.4757,
+    "longitude": -2.272
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "6575ffe8ef63a0cce9b1fb72"
+      },
+      "total_cost": 3.6,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65759eae4d572575c91d1f93"
+          },
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "total_cost": 23,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575a0854d572575c91d1f94"
+          },
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575fe5faec79bbd6e388678"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "first_name": "Evi",
+  "last_name": "Epiphaniou",
+  "gender": "F",
+  "age": 23,
+  "addresses": [
+    {
+      "house_number": 20,
+      "street": "Hardshaw Close",
+      "city": "Manchester",
+      "postcode": "M13 9TN",
+      "type": "shipping"
+    },
+    {
+      "house_number": 20,
+      "street": "Hardshaw Close",
+      "city": "Manchester",
+      "postcode": "M13 9TN",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.468718,
+    "longitude": -2.228322
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "65773f158411eb2fd2e801eb"
+      },
+      "total_cost": 199.99,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575fd5baec79bbd6e388677"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 599.99,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575fe5faec79bbd6e388678"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6574edc28411eb2fd2e80100"
+    },
+    {
+      "$oid": "657592cbfdfd2265e035acc0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "first_name": "Mary",
+  "last_name": "Cooper",
+  "gender": "F",
+  "age": 43,
+  "addresses": [
+    {
+      "house_number": 51,
+      "street": "wellington road",
+      "city": "Manchester",
+      "postcode": "OL8 1RT",
+      "type": "shipping"
+    },
+    {
+      "house_number": 51,
+      "street": "wellington road",
+      "city": "Manchester",
+      "postcode": "OL8 1RT",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.533506,
+    "longitude": -2.121903
+  },
+  "current_orders": [
+    {
+      "total_cost": 99.9,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657592cbfdfd2265e035acc0"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "total_cost": 12.74,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "657593a9fdfd2265e035acc1"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "657514828feff499e8701695"
+    },
+    {
+      "$oid": "6574de4f8411eb2fd2e800f9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "first_name": "Lewis",
+  "last_name": "Bobson",
+  "gender": "M",
+  "age": 29,
+  "addresses": [
+    {
+      "house_number": 21,
+      "street": "Salford Building",
+      "city": "Manchester",
+      "postcode": "M34 596",
+      "type": "shipping"
+    },
+    {
+      "house_number": 21,
+      "street": "Salford Building",
+      "city": "Manchester",
+      "postcode": "M34 596",
+      "type": "billing"
+    }
+  ],
+  "location": {
+    "latitude": 53.4758,
+    "longitude": -2.2719
+  },
+  "current_orders": [
+    {
+      "partner_id": {
+        "$oid": "6575ffe8ef63a0cce9b1fb72"
+      },
+      "total_cost": 2.4,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "65759eae4d572575c91d1f93"
+          },
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "total_cost": 2.6,
+      "status": "paid",
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6575a0854d572575c91d1f95"
+          },
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6574ecd78411eb2fd2e800ff"
+    }
+  ]
+}]

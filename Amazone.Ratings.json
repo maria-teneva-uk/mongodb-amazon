@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "65778b7ba78ce043a135c7f8"
+  },
+  "rating": 3.6,
+  "customer_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "product_id": {
+    "$oid": "6575a9f44d572575c91d1f97"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778d9aa78ce043a135c7fe"
+  },
+  "rating": 4.9,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "657514828feff499e8701695"
+  }
+},
+{
+  "_id": {
+    "$oid": "65779206a78ce043a135c80a"
+  },
+  "rating": 4.4,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "65759eae4d572575c91d1f93"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577926ea78ce043a135c80c"
+  },
+  "rating": 4.2,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "6575a0854d572575c91d1f95"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778a2a5a87041cc7a380a3"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1b"
+  },
+  "review_description": "good phone",
+  "review_title": "Great phone!"
+},
+{
+  "_id": {
+    "$oid": "65778b995a87041cc7a380a5"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1c"
+  },
+  "review_description": "good phone",
+  "review_title": "Great phone!"
+},
+{
+  "_id": {
+    "$oid": "65720c5ae991f6cac38e0304"
+  },
+  "rating": 4.2,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "6571f8e1e991f6cac38e0290"
+  },
+  "review_description": "I really enjoyed reading through this masterpiece!",
+  "review_title": "Great book!"
+},
+{
+  "_id": {
+    "$oid": "6577356d61a15f7139708ae9"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "657594b3fdfd2265e035acc3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577359461a15f7139708aed"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "product_id": {
+    "$oid": "6575922dfdfd2265e035acbf"
+  }
+},
+{
+  "_id": {
+    "$oid": "657735f661a15f7139708af5"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad24"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577368661a15f7139708b00"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad17"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86a"
+  },
+  "customer_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "product_id": {
+    "$oid": "65759f9b4d572575c91d1f94"
+  },
+  "rating": 2,
+  "review_title": "Dont buy this cake!",
+  "review_description": "It tasted so artificial, it was awful"
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b5"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "product_id": {
+    "$oid": "657593a9fdfd2265e035acc1"
+  },
+  "rating": 3.8
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c2"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6575bbc24d572575c91d1f99"
+  },
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c5"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "product_id": {
+    "$oid": "6574fefd8feff499e870168a"
+  },
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c8"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "product_id": {
+    "$oid": "6574d4dd8411eb2fd2e800f4"
+  },
+  "rating": 3.2
+},
+{
+  "_id": {
+    "$oid": "6578b60ca78ce043a135c867"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "6575fe5faec79bbd6e388678"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6578b765a78ce043a135c868"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6575fdff8411eb2fd2e80138"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577913da78ce043a135c809"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "product_id": {
+    "$oid": "6574de4f8411eb2fd2e800f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "657790e7a78ce043a135c807"
+  },
+  "rating": 4.6,
+  "customer_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "product_id": {
+    "$oid": "6574e8248411eb2fd2e800fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778bd7a78ce043a135c7f9"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "product_id": {
+    "$oid": "657514828feff499e8701695"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577927e5a87041cc7a380b3"
+  },
+  "rating": 4.3,
+  "customer_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "product_id": {
+    "$oid": "6574edc28411eb2fd2e80100"
+  },
+  "review_description": "good phone!",
+  "review_title": "Great phone!"
+},
+{
+  "_id": {
+    "$oid": "657795b85a87041cc7a380c0"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "657506fd8feff499e8701690"
+  },
+  "review_description": "good book!",
+  "review_title": "Great book!"
+},
+{
+  "_id": {
+    "$oid": "6577967c5a87041cc7a380c3"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1c"
+  },
+  "review_description": "ok phone!",
+  "review_title": "ok phone!"
+},
+{
+  "_id": {
+    "$oid": "6575e00efdfd2265e035ad61"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "65758f55fdfd2265e035acbc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577355f61a15f7139708ae8"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "6574d3208411eb2fd2e800f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577365061a15f7139708afc"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "6574da368411eb2fd2e800f7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e870"
+  },
+  "customer_id": {
+    "$oid": "657716fcd1c104226794e80d"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad23"
+  },
+  "rating": 5,
+  "review_title": "Amazing avocado!",
+  "review_description": "The best avocado I've had"
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b9"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6574ecd78411eb2fd2e800ff"
+  },
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5ba"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "product_id": {
+    "$oid": "6575fdff8411eb2fd2e80138"
+  },
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5bb"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "6574f1cb8411eb2fd2e80102"
+  },
+  "rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c3"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6575bbc24d572575c91d1f99"
+  },
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c6"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6574fefd8feff499e870168a"
+  },
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65778c0ca78ce043a135c7fa"
+  },
+  "rating": 1,
+  "customer_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad18"
+  }
+},
+{
+  "_id": {
+    "$oid": "657792b2a78ce043a135c80d"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "product_id": {
+    "$oid": "6575a0854d572575c91d1f95"
+  }
+},
+{
+  "_id": {
+    "$oid": "657795f35a87041cc7a380c1"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "6575fd5baec79bbd6e388677"
+  },
+  "review_description": "good vaccum!",
+  "review_title": "Great vaccum!"
+},
+{
+  "_id": {
+    "$oid": "657796e85a87041cc7a380c4"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad22"
+  },
+  "review_description": "Delicious donut",
+  "review_title": "Great donut!"
+},
+{
+  "_id": {
+    "$oid": "657735d661a15f7139708af1"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "product_id": {
+    "$oid": "6574f9ce8feff499e8701688"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577365d61a15f7139708afd"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad22"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577366d61a15f7139708afe"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e868"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "65759552fdfd2265e035acc4"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86b"
+  },
+  "customer_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "product_id": {
+    "$oid": "6571f925e991f6cac38e0295"
+  },
+  "rating": 3.2
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86c"
+  },
+  "customer_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "product_id": {
+    "$oid": "657591aafdfd2265e035acbe"
+  },
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6578b1b3a78ce043a135c857"
+  },
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6574d3208411eb2fd2e800f3"
+  },
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c876"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "6575bbc24d572575c91d1f98"
+  },
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c879"
+  },
+  "customer_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad19"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65778ee2a78ce043a135c801"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6575bf804d572575c91d1f9c"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778f3ba78ce043a135c802"
+  },
+  "rating": 4.2,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "6574f37c8411eb2fd2e80103"
+  }
+},
+{
+  "_id": {
+    "$oid": "65779259a78ce043a135c80b"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "product_id": {
+    "$oid": "65759eae4d572575c91d1f93"
+  }
+},
+{
+  "_id": {
+    "$oid": "657795845a87041cc7a380bf"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "657512b48feff499e8701694"
+  },
+  "review_description": "good cd!",
+  "review_title": "Great cd!"
+},
+{
+  "_id": {
+    "$oid": "657735b361a15f7139708aef"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "product_id": {
+    "$oid": "657514828feff499e8701695"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577363061a15f7139708af9"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "product_id": {
+    "$oid": "6575bbc24d572575c91d1f98"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e869"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "65758f55fdfd2265e035acbc"
+  },
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e871"
+  },
+  "customer_id": {
+    "$oid": "657716fcd1c104226794e80d"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad24"
+  },
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e872"
+  },
+  "customer_id": {
+    "$oid": "657716fcd1c104226794e80d"
+  },
+  "product_id": {
+    "$oid": "6575159e8feff499e8701697"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b4"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "product_id": {
+    "$oid": "657593a9fdfd2265e035acc1"
+  },
+  "rating": 5,
+  "review_title": "Very cooling",
+  "review_description": "Thank you fan!"
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b6"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "product_id": {
+    "$oid": "6574e9218411eb2fd2e800fd"
+  },
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b7"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "product_id": {
+    "$oid": "6574e9218411eb2fd2e800fd"
+  },
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5bd"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "657506d78feff499e870168f"
+  },
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5be"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "65750fd38feff499e8701693"
+  },
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c7"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "6574d4dd8411eb2fd2e800f4"
+  },
+  "rating": 3.2
+},
+{
+  "_id": {
+    "$oid": "65778c94a78ce043a135c7fb"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "product_id": {
+    "$oid": "6575a9f44d572575c91d1f96"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778dfea78ce043a135c7ff"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad18"
+  }
+},
+{
+  "_id": {
+    "$oid": "657735a361a15f7139708aee"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "product_id": {
+    "$oid": "657592cbfdfd2265e035acc0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577360861a15f7139708af6"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "product_id": {
+    "$oid": "6575d6a2fdfd2265e035ad23"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577367961a15f7139708aff"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad19"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e867"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "6574f9ce8feff499e8701688"
+  },
+  "rating": 4.2,
+  "review_title": "Good cupcakes",
+  "review_description": "Nice but could have been less dry"
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c1"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "product_id": {
+    "$oid": "6575bd744d572575c91d1f9b"
+  },
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5ca"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1d"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c875"
+  },
+  "customer_id": {
+    "$oid": "65770e3cd1c104226794e7fd"
+  },
+  "product_id": {
+    "$oid": "65758df4fdfd2265e035acbb"
+  },
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c87a"
+  },
+  "customer_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1e"
+  },
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "65778d5ba78ce043a135c7fd"
+  },
+  "rating": 3.8,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6575a9f44d572575c91d1f97"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778fe2a78ce043a135c804"
+  },
+  "rating": 2,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6575bd744d572575c91d1f9a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778e78a78ce043a135c800"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6575a9f44d572575c91d1f96"
+  }
+},
+{
+  "_id": {
+    "$oid": "65779042a78ce043a135c805"
+  },
+  "rating": 3.4,
+  "customer_id": {
+    "$oid": "657716d38411eb2fd2e801b3"
+  },
+  "product_id": {
+    "$oid": "6575bd744d572575c91d1f9a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65774926465905d08c6d4e35"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "6571f8e1e991f6cac38e0290"
+  },
+  "review_description": "I really enjoyed reading through this!",
+  "review_title": "Great book!"
+},
+{
+  "_id": {
+    "$oid": "657792d95a87041cc7a380b6"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "product_id": {
+    "$oid": "657506fd8feff499e8701690"
+  },
+  "review_description": "good book!",
+  "review_title": "Great book!"
+},
+{
+  "_id": {
+    "$oid": "6577939a5a87041cc7a380b8"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "product_id": {
+    "$oid": "6575fd5baec79bbd6e388677"
+  },
+  "review_description": "good vacuum cleaner!",
+  "review_title": "Great vacuum cleaner!"
+},
+{
+  "_id": {
+    "$oid": "657794405a87041cc7a380b9"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1a"
+  },
+  "review_description": "good electric horizon beats!",
+  "review_title": "Great electric horizon beats!"
+},
+{
+  "_id": {
+    "$oid": "657795065a87041cc7a380bc"
+  },
+  "rating": 4.3,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "6574edc28411eb2fd2e80100"
+  },
+  "review_description": "good phone!",
+  "review_title": "Great phone!"
+},
+{
+  "_id": {
+    "$oid": "6577964a5a87041cc7a380c2"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "65772874465905d08c6d4cef"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1b"
+  },
+  "review_description": "OK phone",
+  "review_title": "ok phone!"
+},
+{
+  "_id": {
+    "$oid": "6577354361a15f7139708ae7"
+  },
+  "rating": 4.6,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "65759088fdfd2265e035acbd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577361761a15f7139708af7"
+  },
+  "rating": 3.9,
+  "customer_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "product_id": {
+    "$oid": "6575bf804d572575c91d1f9d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577369161a15f7139708b01"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "6575dc87fdfd2265e035ad54"
+  },
+  "product_id": {
+    "$oid": "657591aafdfd2265e035acbe"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86f"
+  },
+  "customer_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "product_id": {
+    "$oid": "6575fe5faec79bbd6e388678"
+  },
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5bc"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "657506d78feff499e870168f"
+  },
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c4"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6575bd744d572575c91d1f9b"
+  },
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "65779098a78ce043a135c806"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "6574e8248411eb2fd2e800fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "657789c75a87041cc7a380a2"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "65758df4fdfd2265e035acbb"
+  },
+  "review_description": "I really enjoyed reading through this!",
+  "review_title": "Great book!"
+},
+{
+  "_id": {
+    "$oid": "65778d935a87041cc7a380a9"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "product_id": {
+    "$oid": "65759088fdfd2265e035acbd"
+  },
+  "review_description": "good revolver",
+  "review_title": "Great revolver!"
+},
+{
+  "_id": {
+    "$oid": "65778f505a87041cc7a380ab"
+  },
+  "rating": 3,
+  "customer_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1a"
+  },
+  "review_description": "good electric horizon beats!",
+  "review_title": "Great electric horizon beats!"
+},
+{
+  "_id": {
+    "$oid": "657793325a87041cc7a380b7"
+  },
+  "rating": 4.8,
+  "customer_id": {
+    "$oid": "657723b5465905d08c6d4cda"
+  },
+  "product_id": {
+    "$oid": "657512b48feff499e8701694"
+  },
+  "review_description": "good cd!",
+  "review_title": "Great cd!"
+},
+{
+  "_id": {
+    "$oid": "657735c361a15f7139708af0"
+  },
+  "rating": 4.6,
+  "customer_id": {
+    "$oid": "6575db99fdfd2265e035ad50"
+  },
+  "product_id": {
+    "$oid": "6571f925e991f6cac38e0295"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577362461a15f7139708af8"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6575dc57fdfd2265e035ad53"
+  },
+  "product_id": {
+    "$oid": "6575159e8feff499e8701697"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86d"
+  },
+  "customer_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "product_id": {
+    "$oid": "65759f9b4d572575c91d1f94"
+  },
+  "rating": 2.4
+},
+{
+  "_id": {
+    "$oid": "6577ae44d1c104226794e86e"
+  },
+  "customer_id": {
+    "$oid": "657716bad1c104226794e80b"
+  },
+  "product_id": {
+    "$oid": "657594b3fdfd2265e035acc3"
+  },
+  "rating": 1.9,
+  "review_title": "Disgusting!",
+  "review_description": "This did not taste like sprite at all"
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5bf"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "65750fd38feff499e8701693"
+  },
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c0"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e569"
+  },
+  "product_id": {
+    "$oid": "6575bbc24d572575c91d1f99"
+  },
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "65789c08a78ce043a135c84b"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56b"
+  },
+  "product_id": {
+    "$oid": "6574f1cb8411eb2fd2e80102"
+  },
+  "rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "65778cd5a78ce043a135c7fc"
+  },
+  "rating": 4.5,
+  "customer_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "product_id": {
+    "$oid": "6575bf804d572575c91d1f9c"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778f85a78ce043a135c803"
+  },
+  "rating": 4.6,
+  "customer_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "product_id": {
+    "$oid": "6574f37c8411eb2fd2e80103"
+  }
+},
+{
+  "_id": {
+    "$oid": "65779112a78ce043a135c808"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6577156c8411eb2fd2e801b2"
+  },
+  "product_id": {
+    "$oid": "6574de4f8411eb2fd2e800f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778a985a87041cc7a380a4"
+  },
+  "rating": 4.2,
+  "customer_id": {
+    "$oid": "6577117a465905d08c6d4cae"
+  },
+  "product_id": {
+    "$oid": "6574f4258feff499e8701685"
+  },
+  "review_description": "fresh bananas",
+  "review_title": "Great fruit!"
+},
+{
+  "_id": {
+    "$oid": "65778e585a87041cc7a380aa"
+  },
+  "rating": 4,
+  "customer_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "product_id": {
+    "$oid": "6575922dfdfd2265e035acbf"
+  },
+  "review_description": "good phone",
+  "review_title": "Great phone!"
+},
+{
+  "_id": {
+    "$oid": "657790bf5a87041cc7a380ac"
+  },
+  "rating": 4.2,
+  "customer_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "product_id": {
+    "$oid": "6574f4258feff499e8701685"
+  },
+  "review_description": "fresh food!",
+  "review_title": "Great bananas!"
+},
+{
+  "_id": {
+    "$oid": "657791765a87041cc7a380ad"
+  },
+  "rating": 4.7,
+  "customer_id": {
+    "$oid": "65772053465905d08c6d4cc8"
+  },
+  "product_id": {
+    "$oid": "657592cbfdfd2265e035acc0"
+  },
+  "review_description": "good rice cooker!",
+  "review_title": "Great rice cooker!"
+},
+{
+  "_id": {
+    "$oid": "6577353361a15f7139708ae6"
+  },
+  "rating": 5,
+  "customer_id": {
+    "$oid": "6571177ee991f6cac38e0284"
+  },
+  "product_id": {
+    "$oid": "65759552fdfd2265e035acc4"
+  }
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5b8"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e568"
+  },
+  "product_id": {
+    "$oid": "6574ecd78411eb2fd2e800ff"
+  },
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "65778c788d236f137cd0e5c9"
+  },
+  "customer_id": {
+    "$oid": "65772aa68d236f137cd0e56a"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1d"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c877"
+  },
+  "customer_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "product_id": {
+    "$oid": "6575bf804d572575c91d1f9d"
+  },
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c878"
+  },
+  "customer_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad17"
+  },
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6578b9b2a78ce043a135c87b"
+  },
+  "customer_id": {
+    "$oid": "657716fcd1c104226794e80d"
+  },
+  "product_id": {
+    "$oid": "6574da368411eb2fd2e800f7"
+  },
+  "rating": 2
+}]

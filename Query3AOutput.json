@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6577038c8411eb2fd2e801a4"
+  },
+  "first_name": "Richard",
+  "last_name": "Webber",
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579cb6fa78ce043a135c8b1"
+          },
+          "quantity": 3
+        },
+        {
+          "product_id": {
+            "$oid": "6579cb89a78ce043a135c8b5"
+          },
+          "quantity": 3
+        }
+      ],
+      "partner_id": {
+        "$oid": "6579c673a78ce043a135c8ac"
+      },
+      "total_cost": 7.17,
+      "status": "paid"
+    },
+    {
+      "order_items": [
+        {
+          "product_id": {
+            "$oid": "6579c783a78ce043a135c8ad"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_cost": 438,
+      "status": "paid"
+    }
+  ]
+}]

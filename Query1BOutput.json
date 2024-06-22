@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "65770e63d1c104226794e7ff"
+  },
+  "customerName": "Mila Arnold",
+  "customerLocation": {
+    "latitude": 53.4757,
+    "longitude": -2.272
+  },
+  "storeLocation": {
+    "latitude": 53.4767,
+    "longitude": -2.2718
+  },
+  "partnerLocation": {
+    "latitude": 53.561132,
+    "longitude": -2.10409
+  },
+  "partnerName": "Jennifer Jenkins",
+  "partner_id": {
+    "$oid": "6571e9f1d0e61922139c57f6"
+  },
+  "partnerRating": 4.2,
+  "freshProductInfo": [
+    {
+      "_id": {
+        "$oid": "65759eae4d572575c91d1f93"
+      },
+      "name": "mango",
+      "description": "Imported and sweet fruit",
+      "dimensions": "10cm in length",
+      "type": "fruits and vegetables",
+      "average_rating": 4.2,
+      "cost_for_amazone": 0.5,
+      "country_of_origin": "India",
+      "daily_inventory_level": [
+        {
+          "date": {
+            "$date": "2023-12-06T00:00:00.000Z"
+          },
+          "inventory_quantity": 28,
+          "storage_warehouse_location": {
+            "latitude": 53.4332,
+            "longitude": -2.2329
+          },
+          "storage_warehouse_name": "Withington Warehouse"
+        },
+        {
+          "date": {
+            "$date": "2023-12-05T00:00:00.000Z"
+          },
+          "inventory_quantity": 33,
+          "storage_warehouse_location": {
+            "latitude": 53.4332,
+            "longitude": -2.2329
+          },
+          "storage_warehouse_name": "Withington Warehouse"
+        }
+      ],
+      "expiry_date": {
+        "$date": "2023-12-24T23:59:59.000Z"
+      },
+      "shipping_weight": "150g",
+      "standard_price": 1.2
+    }
+  ]
+}]

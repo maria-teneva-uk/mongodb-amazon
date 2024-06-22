@@ -1,0 +1,360 @@
+[{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Samsung DW60M6050FS Dishwasher",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Vacuum Cleaner",
+    "inventory_quantity": 25
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Rice Cooker",
+    "inventory_quantity": 30
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Desk Fan",
+    "inventory_quantity": 22
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Bosch freezer",
+    "inventory_quantity": 13
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Airfryer5000",
+    "inventory_quantity": 100
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Air Conditioner",
+    "inventory_quantity": 15
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Oven",
+    "inventory_quantity": 90
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Toast Pro",
+    "inventory_quantity": 70
+  }
+},
+{
+  "_id": "home appliance",
+  "totalSales": 9561.47,
+  "totalQuantity": 26,
+  "inventoryInfo": {
+    "name": "Hisense WF5S1245BW washing machine",
+    "inventory_quantity": 2
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "The Dark Side of the Moon",
+    "inventory_quantity": 17
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Revolver",
+    "inventory_quantity": 24
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "1989 (Taylor's version)",
+    "inventory_quantity": 3
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "SOS",
+    "inventory_quantity": 10
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Funkfunk",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Jay z best hits",
+    "inventory_quantity": 9
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Fast soundtrack",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Lady Gaga:The Fame",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "Harry Styles:Fine Line",
+    "inventory_quantity": 8
+  }
+},
+{
+  "_id": "CD",
+  "totalSales": 918.17,
+  "totalQuantity": 125,
+  "inventoryInfo": {
+    "name": "electric horizon beats",
+    "inventory_quantity": 4
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Nokia 105",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Samsung galaxy A14",
+    "inventory_quantity": 18
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Apple iPhone 13",
+    "inventory_quantity": 25
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Xiaomi 100",
+    "inventory_quantity": 100
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "iPhone SE",
+    "inventory_quantity": 10
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "OnePlus 9",
+    "inventory_quantity": 18
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "iPhone 25",
+    "inventory_quantity": 50
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Nokia 2",
+    "inventory_quantity": 29
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Apple iPhone 11",
+    "inventory_quantity": 15
+  }
+},
+{
+  "_id": "mobile phone",
+  "totalSales": 16334.18,
+  "totalQuantity": 92,
+  "inventoryInfo": {
+    "name": "Huawei3450",
+    "inventory_quantity": 21
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "A Christmas Carol",
+    "inventory_quantity": 20
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "midnight serenade: shadows of the forgotten",
+    "inventory_quantity": 14
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "Bake book",
+    "inventory_quantity": 8
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "Dinosaurs",
+    "inventory_quantity": 9
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "The Fault in our Stars",
+    "inventory_quantity": 35
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "Top 100 trips on a bike",
+    "inventory_quantity": 17
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "History of hip hop",
+    "inventory_quantity": 3
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "Happy Place",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "Whispers of eternity",
+    "inventory_quantity": 5
+  }
+},
+{
+  "_id": "book",
+  "totalSales": 345.5,
+  "totalQuantity": 24,
+  "inventoryInfo": {
+    "name": "The Housemaid",
+    "inventory_quantity": 2
+  }
+}]

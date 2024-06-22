@@ -1,0 +1,124 @@
+db.getCollection('Customers').aggregate(
+  [
+    {
+      $match: {
+        _id: ObjectId('65770e63d1c104226794e7ff')
+      }
+    },
+    {
+      $lookup: {
+        from: 'Stores',
+        let: {
+          customerLocation: '$location',
+          freshProductId:
+            '$current_orders.order_items.product_id'
+        },
+        pipeline: [
+          {
+            $geoNear: {
+              near: '$$customerLocation',
+              distanceField: 'distanceToCustomer',
+              spherical: true,
+              maxDistance: 100000000
+            }
+          },
+          { $limit: 1 },
+          {
+            $lookup: {
+              from: 'FreshProducts',
+              localField:
+                'available_for_pickup_product_ids',
+              foreignField: '_id',
+              as: 'availableFreshProduct'
+            }
+          },
+          {
+            $match: {
+              'availableFreshProduct._id':
+                ObjectId(
+                  '65759eae4d572575c91d1f93'
+                )
+            }
+          }
+        ],
+        as: 'nearestStore'
+      }
+    },
+    { $unwind: '$nearestStore' },
+    {
+      $set: {
+        nearestStoreCoordinates: [
+          '$nearestStore.location.longitude',
+          '$nearestStore.location.latitude'
+        ]
+      }
+    },
+    {
+      $lookup: {
+        from: 'Partners',
+        let: {
+          storeCoordinates:
+            '$nearestStoreCoordinates'
+        },
+        pipeline: [
+          {
+            $geoNear: {
+              near: {
+                type: 'Point',
+                coordinates: '$$storeCoordinates'
+              },
+              distanceField: 'distanceToStore',
+              spherical: true,
+              maxDistance: 100000000,
+              query: { active: true }
+            }
+          },
+          { $limit: 1 }
+        ],
+        as: 'nearestPartner'
+      }
+    },
+    { $unwind: '$nearestPartner' },
+    {
+      $project: {
+        customerName: {
+          $concat: [
+            '$first_name',
+            ' ',
+            '$last_name'
+          ]
+        },
+        customerLocation: '$location',
+        storeLocation: '$nearestStore.location',
+        partnerLocation:
+          '$nearestPartner.location',
+        partnerName: {
+          $concat: [
+            '$nearestPartner.first_name',
+            ' ',
+            '$nearestPartner.last_name'
+          ]
+        },
+        partner_id: '$nearestPartner._id',
+        partnerRating:
+          '$nearestPartner.average_rating',
+        freshProductInfo: {
+          $filter: {
+            input:
+              '$nearestStore.availableFreshProduct',
+            as: 'product',
+            cond: {
+              $eq: [
+                '$$product._id',
+                ObjectId(
+                  '65759eae4d572575c91d1f93'
+                )
+              ]
+            }
+          }
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

@@ -1,0 +1,33 @@
+db.getCollection('Stores').aggregate(
+  [
+    {
+      $geoNear: {
+        near: {
+          type: 'Point',
+          coordinates: [53.47816, -2.24291]
+        },
+        distanceField: 'distance',
+        spherical: true
+      }
+    },
+    { $limit: 1 },
+    {
+      $lookup: {
+        from: 'FreshProducts',
+        localField:
+          'available_for_pickup_product_ids',
+        foreignField: '_id',
+        as: 'joined'
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        address: 1,
+        'joined.name': 1,
+        'joined.standard_price': 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

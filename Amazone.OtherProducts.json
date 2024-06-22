@@ -1,0 +1,1630 @@
+[{
+  "_id": {
+    "$oid": "65758f55fdfd2265e035acbc"
+  },
+  "name": "The Dark Side of the Moon",
+  "description": "First released as part of ‘The Dark Side Of The Moon’ 50 th Anniversary Box Set, this is the first time that the new mix of the classic album will be available on its own in physical formats.",
+  "dimensions": "12x12x2cm",
+  "publisher": "groovz",
+  "type": "CD",
+  "artist_name": "Pink Floyd",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 17,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 18,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 10,
+  "shipping_weight": "130g",
+  "standard_price": 6.09,
+  "total_playing_time": "0h 42m",
+  "cost_for_amazone": 2.2
+},
+{
+  "_id": {
+    "$oid": "6571f8e1e991f6cac38e0290"
+  },
+  "name": "A Christmas Carol",
+  "description": "A beautiful edition of the classic tale, A Christmas Carol.",
+  "dimensions": "20x1x14cm",
+  "publisher": "Scholastic",
+  "ISBN": "1407143646",
+  "type": "book",
+  "author_name": "Charles Dickens",
+  "average_rating": 4.6,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 20,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 21,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "standard_price": 5,
+  "year_of_publication": 2013,
+  "shipping_weight": "200g",
+  "cost_for_amazone": 1
+},
+{
+  "_id": {
+    "$oid": "6575922dfdfd2265e035acbf"
+  },
+  "name": "Nokia 105",
+  "description": "Modern and durable!",
+  "dimensions": "12x5x1cm",
+  "brand": "Nokia",
+  "model": "105 (4th Edition)",
+  "colour": "Black",
+  "features": "Bluetooth",
+  "type": "mobile phone",
+  "average_rating": 4,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "300g",
+  "standard_price": 18,
+  "cost_for_amazone": 10
+},
+{
+  "_id": {
+    "$oid": "6574f1cb8411eb2fd2e80102"
+  },
+  "name": "Samsung DW60M6050FS Dishwasher",
+  "description": "A++ Rated Dishwasher - Stainless Steel",
+  "dimensions": "24x24x33cm",
+  "colour": "silver",
+  "voltage": "220-240V",
+  "style": "Freestanding",
+  "type": "home appliance",
+  "average_rating": 3.9,
+  "cost_for_amazone": 350,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "50kg",
+  "standard_price": 429
+},
+{
+  "_id": {
+    "$oid": "65759088fdfd2265e035acbd"
+  },
+  "name": "Revolver",
+  "description": "Enjoy this classic Beatles album.",
+  "dimensions": "14x13x1cm",
+  "publisher": "Parlophone",
+  "type": "CD",
+  "artist_name": "The Beatles",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 24,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 24,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 12,
+  "shipping_weight": "90g",
+  "standard_price": 19.31,
+  "total_playing_time": "0h 35m",
+  "cost_for_amazone": 5
+},
+{
+  "_id": {
+    "$oid": "6574e9218411eb2fd2e800fd"
+  },
+  "name": "1989 (Taylor's version)",
+  "description": "1989 (Taylor’s Version) CD, including 5 previously unreleased songs",
+  "dimensions": "14x12x1cm",
+  "publisher": "Universal Music",
+  "type": "CD",
+  "artist_name": "Taylor Swift",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 3,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 21,
+  "shipping_weight": "100g",
+  "standard_price": 12.99,
+  "total_playing_time": "1h 17m",
+  "cost_for_amazone": 5
+},
+{
+  "_id": {
+    "$oid": "6574edc28411eb2fd2e80100"
+  },
+  "name": "Samsung galaxy A14",
+  "description": "Samsung Galaxy A14 4G 64GB black",
+  "dimensions": "50x50x28cm",
+  "brand": "Samsung",
+  "model": "SM-A145RZKUEUB",
+  "colour": "black",
+  "features": "Android, 64G, LCD Display",
+  "type": "mobile phone",
+  "average_rating": 4.3,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 18,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 20,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "200g",
+  "standard_price": 106.09,
+  "cost_for_amazone": 60
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad18"
+  },
+  "name": "midnight serenade: shadows of the forgotten",
+  "description": "eternal shadows converge",
+  "dimensions": "15x5x2",
+  "publisher": "harmony press",
+  "ISBN": "978-3-567890-12-3",
+  "type": "book",
+  "author_name": "cameron sterling",
+  "average_rating": 2,
+  "cost_for_amazone": 1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 14,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 15,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "130g",
+  "standard_price": 25,
+  "year_of_publication": 2021
+},
+{
+  "_id": {
+    "$oid": "6575fd5baec79bbd6e388677"
+  },
+  "name": "Vacuum Cleaner",
+  "description": "Advanced cleaning technology for your home",
+  "dimensions": "25x15x40cm",
+  "colour": "Silver",
+  "style": "Modern",
+  "type": "home appliance",
+  "voltage": "120V",
+  "average_rating": 4.5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 25,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 28,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "3kg",
+  "standard_price": 199.99,
+  "cost_for_amazone": 150
+},
+{
+  "_id": {
+    "$oid": "6575fdff8411eb2fd2e80138"
+  },
+  "name": "Apple iPhone 13",
+  "description": "No one does 5G like iPhone",
+  "dimensions": "14x7x7cm",
+  "brand": "Apple",
+  "model": "iPhone 13",
+  "colour": "red",
+  "features": "iOS15, 128G, 6.1-inch Super Retina XDR display",
+  "type": "mobile phone",
+  "average_rating": 4.7,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 25,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 30,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "190g",
+  "standard_price": 649,
+  "cost_for_amazone": 500
+},
+{
+  "_id": {
+    "$oid": "657592cbfdfd2265e035acc0"
+  },
+  "name": "Rice Cooker",
+  "description": "PERFECT RICE AT THE TOUCH OF A BUTTON",
+  "dimensions": "30x23x21cm",
+  "colour": "White",
+  "style": "Sleek",
+  "type": "home appliance",
+  "voltage": "220V",
+  "average_rating": 4.7,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 30,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 29,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "2kg",
+  "standard_price": 99.9,
+  "cost_for_amazone": 22
+},
+{
+  "_id": {
+    "$oid": "657593a9fdfd2265e035acc1"
+  },
+  "name": "Desk Fan",
+  "description": "Strong Wind, Quiet Operation",
+  "dimensions": "15x10x17cm",
+  "colour": "Navy Blue",
+  "style": "Portable",
+  "type": "home appliance",
+  "voltage": "200V",
+  "average_rating": 4.4,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 22,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 27,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "400g",
+  "standard_price": 12.74,
+  "cost_for_amazone": 3
+},
+{
+  "_id": {
+    "$oid": "6574ecd78411eb2fd2e800ff"
+  },
+  "name": "SOS",
+  "description": "Second studio album from GRAMMY award winning singer SZA",
+  "dimensions": "12x14x1cm",
+  "publisher": "Rca",
+  "type": "CD",
+  "artist_name": "SZA",
+  "average_rating": 4.9,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 10,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 11,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 23,
+  "shipping_weight": "91g",
+  "standard_price": 11.99,
+  "total_playing_time": "1h 17m",
+  "cost_for_amazone": 5
+},
+{
+  "_id": {
+    "$oid": "6575bbc24d572575c91d1f98"
+  },
+  "name": "Funkfunk",
+  "type": "CD",
+  "description": "songs with funky sound",
+  "dimensions": "2.4x1.4x1cm",
+  "publisher": "funkg",
+  "artist_name": "outkast",
+  "average_rating": 4.8,
+  "cost_for_amazone": 0.3,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 7,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 5,
+  "shipping_weight": "23g",
+  "standard_price": 8,
+  "total_playing_time": "0h 32m"
+},
+{
+  "_id": {
+    "$oid": "6575bbc24d572575c91d1f99"
+  },
+  "name": "Jay z best hits",
+  "type": "CD",
+  "description": "compilation of Jay z songs",
+  "dimensions": "1.3x1.2x1cm",
+  "publisher": "jayzrecords",
+  "artist_name": "jay z",
+  "average_rating": 4.3,
+  "cost_for_amazone": 0.1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 9,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 11,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 11,
+  "shipping_weight": "34g",
+  "standard_price": 4,
+  "total_playing_time": "1h 23m"
+},
+{
+  "_id": {
+    "$oid": "6575bf804d572575c91d1f9c"
+  },
+  "name": "Bosch freezer",
+  "type": "home appliance",
+  "description": "freezer without refrigerator",
+  "dimensions": "90x45x90cm",
+  "colour": "pink",
+  "voltage": "215V",
+  "style": "old-fashioned",
+  "average_rating": 4.6,
+  "cost_for_amazone": 200,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 13,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 14,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "5000g",
+  "standard_price": 890
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad1c"
+  },
+  "name": "Xiaomi 100",
+  "description": "Phone with best camera",
+  "dimensions": "1.6x0.7x0.07cm",
+  "brand": "Xiaomi",
+  "model": "10",
+  "colour": "black",
+  "features": "good camera",
+  "type": "mobile phone",
+  "average_rating": 3,
+  "cost_for_amazone": 1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 100,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 102,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "200g",
+  "standard_price": 500
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad1d"
+  },
+  "name": "Airfryer5000",
+  "description": "Cook food quickly",
+  "dimensions": "30x20x20cm",
+  "colour": "black",
+  "voltage": "230V",
+  "style": "modern",
+  "type": "home appliance",
+  "average_rating": 5,
+  "cost_for_amazone": 5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 100,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 200,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "1000g",
+  "standard_price": 500
+},
+{
+  "_id": {
+    "$oid": "6575fe5faec79bbd6e388678"
+  },
+  "name": "Air Conditioner",
+  "description": "Enjoy a cool environment",
+  "dimensions": "50x30x60cm",
+  "colour": "White",
+  "style": "Contemporary",
+  "type": "home appliance",
+  "voltage": "220V",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 15,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 18,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "15kg",
+  "standard_price": 599.99,
+  "cost_for_amazone": 350
+},
+{
+  "_id": {
+    "$oid": "657506d78feff499e870168f"
+  },
+  "name": "Bake book",
+  "description": "Mouthwatering recipes",
+  "dimensions": "25x20x5cm",
+  "publisher": "Bakehouse Publications",
+  "ISBN": "978-1-23-456789-0",
+  "type": "book",
+  "author_name": "penny",
+  "average_rating": 4.7,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 10,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "250g",
+  "standard_price": 18,
+  "year_of_publication": 1986,
+  "cost_for_amazone": 8
+},
+{
+  "_id": {
+    "$oid": "657591aafdfd2265e035acbe"
+  },
+  "name": "iPhone SE",
+  "description": "A superpowerful chip. A superstar camera. A leap in battery life. A fast 5G connection.",
+  "dimensions": "7x67x138cm",
+  "brand": "Apple",
+  "model": "SE (64GB)",
+  "colour": "Starlight",
+  "features": "High resolution",
+  "type": "mobile phone",
+  "average_rating": 4.6,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 10,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 11,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "170g",
+  "standard_price": 549,
+  "cost_for_amazone": 20
+},
+{
+  "_id": {
+    "$oid": "657506fd8feff499e8701690"
+  },
+  "name": "Dinosaurs",
+  "description": "A journey through the world of dinosaurss",
+  "dimensions": "28x22x2cm",
+  "publisher": "History Publications",
+  "ISBN": "978-3-45-678901-2",
+  "type": "book",
+  "author_name": "James",
+  "average_rating": 5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 9,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 12,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "300g",
+  "standard_price": 17,
+  "year_of_publication": 2022,
+  "cost_for_amazone": 5
+},
+{
+  "_id": {
+    "$oid": "6575159e8feff499e8701697"
+  },
+  "name": "OnePlus 9",
+  "description": "OnePlus 9 128GB Midnight Black",
+  "dimensions": "16.2x7.3x0.8cm",
+  "brand": "OnePlus",
+  "model": "OP9MB128",
+  "colour": "Midnight Black",
+  "features": "OxygenOS, 128GB, AMOLED Display",
+  "type": "mobile phone",
+  "average_rating": 5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 18,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 20,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "190g",
+  "standard_price": 800,
+  "cost_for_amazone": 550
+},
+{
+  "_id": {
+    "$oid": "6575bf804d572575c91d1f9d"
+  },
+  "name": "Oven",
+  "type": "home appliance",
+  "description": "powerful oven",
+  "dimensions": "100x90x80cm",
+  "colour": "white",
+  "voltage": "195V",
+  "style": "classic",
+  "average_rating": 4.3,
+  "cost_for_amazone": 150,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 90,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 90,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "2450g",
+  "standard_price": 298
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad19"
+  },
+  "name": "Fast soundtrack",
+  "description": "sonic journeys unveiled",
+  "dimensions": "1.5x1.5x1cm",
+  "publisher": "nintendo",
+  "type": "CD",
+  "artist_name": "nintendo",
+  "average_rating": 5,
+  "cost_for_amazone": 1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 5,
+  "shipping_weight": "30g",
+  "standard_price": 5,
+  "total_playing_time": "0h 30m"
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad1b"
+  },
+  "name": "iPhone 25",
+  "description": "newest iPhone",
+  "dimensions": "1.6x0.7x0.07cm",
+  "brand": "Apple",
+  "model": "15",
+  "colour": "pink",
+  "features": "apple pay, 10 cameras",
+  "type": "mobile phone",
+  "average_rating": 3,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 50,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 100,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "200g",
+  "standard_price": 2000,
+  "cost_for_amazone": 1
+},
+{
+  "_id": {
+    "$oid": "65758df4fdfd2265e035acbb"
+  },
+  "name": "The Fault in our Stars",
+  "description": "Fall in love the way you fall asleep: slowly, then all at once.",
+  "dimensions": "20x13x2cm",
+  "publisher": "Penguin",
+  "ISBN": "0141345659",
+  "type": "book",
+  "author_name": "John Green",
+  "average_rating": 4.5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 35,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 33,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "220g",
+  "standard_price": 7.85,
+  "year_of_publication": 2013,
+  "cost_for_amazone": 2
+},
+{
+  "_id": {
+    "$oid": "6575a9f44d572575c91d1f96"
+  },
+  "name": "Top 100 trips on a bike",
+  "type": "book",
+  "description": "collection of cycling destinations",
+  "dimensions": "12x10x10cm",
+  "publisher": "nattravel",
+  "ISBN": "970-3-267863-92-1",
+  "author_name": "bobson colt",
+  "average_rating": 4.4,
+  "cost_for_amazone": 5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 17,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 21,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "1300g",
+  "standard_price": 23,
+  "year_of_publication": 2011
+},
+{
+  "_id": {
+    "$oid": "6575a9f44d572575c91d1f97"
+  },
+  "name": "History of hip hop",
+  "type": "book",
+  "description": "hip hop history",
+  "dimensions": "12x5x2",
+  "publisher": "penguin",
+  "ISBN": "932-4-597825-31-4",
+  "author_name": "lil wayne",
+  "average_rating": 3.7,
+  "cost_for_amazone": 11,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 3,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 3,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "2350g",
+  "standard_price": 12,
+  "year_of_publication": 2012
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad1e"
+  },
+  "name": "Toast Pro",
+  "description": "Great toaster",
+  "dimensions": "10x10x10cm",
+  "colour": "silver",
+  "voltage": "230V",
+  "style": "classic",
+  "type": "home appliance",
+  "average_rating": 4.5,
+  "cost_for_amazone": 5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 70,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 80,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "250g",
+  "standard_price": 25
+},
+{
+  "_id": {
+    "$oid": "6574de4f8411eb2fd2e800f9"
+  },
+  "name": "Happy Place",
+  "description": "a bestselling romance novel",
+  "dimensions": "20x13x1cm",
+  "publisher": "viking",
+  "ISBN": "978-0241997932",
+  "type": "book",
+  "author_name": "emily henry",
+  "average_rating": 4.5,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "488g",
+  "standard_price": 13.99,
+  "year_of_publication": 2023,
+  "cost_for_amazone": 6
+},
+{
+  "_id": {
+    "$oid": "6574f37c8411eb2fd2e80103"
+  },
+  "name": "Hisense WF5S1245BW washing machine",
+  "description": "Front Load Inverter with Auto Dose 19 Programs Energy Rating A",
+  "dimensions": "64x59x84cm",
+  "colour": "white",
+  "style": "Freestanding 12kg drum capacity",
+  "type": "home appliance",
+  "voltage": "220V",
+  "average_rating": 4.4,
+  "cost_for_amazone": 300,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 2,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 3,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "73kg",
+  "standard_price": 479.99
+},
+{
+  "_id": {
+    "$oid": "6575bd744d572575c91d1f9b"
+  },
+  "name": "Nokia 2",
+  "type": "mobile phone",
+  "description": "durable, can break walls",
+  "dimensions": "2.3x0.7x0.15cm",
+  "brand": "Nokia",
+  "model": "2",
+  "colour": "ash",
+  "features": "can never be broken",
+  "average_rating": 4.1,
+  "cost_for_amazone": 6,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 29,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 30,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "123g",
+  "standard_price": 28
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad17"
+  },
+  "name": "Whispers of eternity",
+  "description": "enigmatic love unveiled",
+  "dimensions": "15x5x2cm",
+  "publisher": "penguin",
+  "ISBN": "978-1-234567-89-0",
+  "type": "book",
+  "author_name": "miranda everhart",
+  "average_rating": 5,
+  "cost_for_amazone": 1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "140g",
+  "standard_price": 15,
+  "year_of_publication": 1978
+},
+{
+  "_id": {
+    "$oid": "6574e8248411eb2fd2e800fc"
+  },
+  "name": "The Housemaid",
+  "description": "a bestselling romance novel",
+  "dimensions": "19x12x2cm",
+  "publisher": "bookouture",
+  "ISBN": "978-140872851-2",
+  "type": "book",
+  "author_name": "freida mcfadden",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 2,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "238g",
+  "standard_price": 9.99,
+  "year_of_publication": 2023,
+  "cost_for_amazone": 4
+},
+{
+  "_id": {
+    "$oid": "65750fd38feff499e8701693"
+  },
+  "name": "Lady Gaga:The Fame",
+  "description": "Studio album by Lady Gaga",
+  "dimensions": "12x12x1cm",
+  "publisher": "Interscope Music",
+  "type": "CD",
+  "artist_name": "Lady Gaga",
+  "average_rating": 4.9,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 6,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 5,
+  "shipping_weight": "100g",
+  "standard_price": 15.5,
+  "total_playing_time": "0h 50m",
+  "cost_for_amazone": 5
+},
+{
+  "_id": {
+    "$oid": "657512b48feff499e8701694"
+  },
+  "name": "Harry Styles:Fine Line",
+  "description": "Latest studio album by Harry Styles (2022)",
+  "dimensions": "12x11x1cm",
+  "publisher": "Columbia Music",
+  "type": "CD",
+  "artist_name": "Harry Styles",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 8,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 9,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 10,
+  "shipping_weight": "100g",
+  "standard_price": 30.5,
+  "total_playing_time": "1h 5m",
+  "cost_for_amazone": 7
+},
+{
+  "_id": {
+    "$oid": "657514828feff499e8701695"
+  },
+  "name": "Apple iPhone 11",
+  "description": "Apple iPhone 11 64GB black",
+  "dimensions": "15.1x7.7x0.8cm",
+  "brand": "Apple",
+  "model": "MWLT2LL/A",
+  "colour": "black",
+  "features": "iOS, 64GB, Liquid Retina Display",
+  "type": "mobile phone",
+  "average_rating": 4.8,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 15,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 20,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "194g",
+  "standard_price": 699,
+  "cost_for_amazone": 500
+},
+{
+  "_id": {
+    "$oid": "6575bd744d572575c91d1f9a"
+  },
+  "name": "Huawei3450",
+  "type": "mobile phone",
+  "description": "huawei mobile device",
+  "dimensions": "1.8x1.2x0.19cm",
+  "brand": "Huawei",
+  "model": "3460",
+  "colour": "yellow",
+  "features": "touch screen",
+  "average_rating": 2.7,
+  "cost_for_amazone": 39,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 21,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 22,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "shipping_weight": "360g",
+  "standard_price": 438
+},
+{
+  "_id": {
+    "$oid": "6575d50efdfd2265e035ad1a"
+  },
+  "name": "electric horizon beats",
+  "description": "electric melodies",
+  "dimensions": "1.5x1.5x1cm",
+  "publisher": "cosmic records",
+  "type": "CD",
+  "artist_name": "lucas skyweaver",
+  "average_rating": 3,
+  "cost_for_amazone": 1,
+  "daily_inventory_level": [
+    {
+      "date": {
+        "$date": "2023-12-06T00:00:00.000Z"
+      },
+      "inventory_quantity": 4,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    },
+    {
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "inventory_quantity": 5,
+      "storage_warehouse_location": {
+        "latitude": 53.482,
+        "longitude": -2.2329
+      },
+      "storage_warehouse_name": "Hilton Warehouse"
+    }
+  ],
+  "number_of_tracks": 10,
+  "shipping_weight": "30g",
+  "standard_price": 10,
+  "total_playing_time": "1h 0m"
+}]

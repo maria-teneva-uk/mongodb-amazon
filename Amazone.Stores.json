@@ -1,0 +1,310 @@
+[{
+  "_id": {
+    "$oid": "657620df8411eb2fd2e80146"
+  },
+  "address": {
+    "number": 3,
+    "street": "Kennington Street",
+    "city": "Manchester",
+    "postcode": "M15 6GF"
+  },
+  "location": {
+    "latitude": 53.460447,
+    "longitude": -2.235391
+  },
+  "available_for_pickup_product_ids": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657594b3fdfd2265e035acc3"
+    },
+    {
+      "$oid": "65759552fdfd2265e035acc4"
+    },
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "65759eae4d572575c91d1f93"
+    },
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575a0854d572575c91d1f95"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad24"
+    },
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574d4dd8411eb2fd2e800f4"
+    },
+    {
+      "$oid": "6574da368411eb2fd2e800f7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572054ae991f6cac38e02bb"
+  },
+  "address": {
+    "number": 40,
+    "street": "Clegg street",
+    "city": "Manchester",
+    "postcode": "OL1 1QG"
+  },
+  "location": {
+    "latitude": 53.5407,
+    "longitude": -2.11134
+  },
+  "available_for_pickup_product_ids": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657594b3fdfd2265e035acc3"
+    },
+    {
+      "$oid": "65759552fdfd2265e035acc4"
+    },
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "65759eae4d572575c91d1f93"
+    },
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575a0854d572575c91d1f95"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad24"
+    },
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574d4dd8411eb2fd2e800f4"
+    },
+    {
+      "$oid": "6574da368411eb2fd2e800f7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576ee77465905d08c6d4c77"
+  },
+  "address": {
+    "number": 64,
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NT"
+  },
+  "location": {
+    "latitude": 53.463268,
+    "longitude": -2.229555
+  },
+  "available_for_pickup_product_ids": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657594b3fdfd2265e035acc3"
+    },
+    {
+      "$oid": "65759552fdfd2265e035acc4"
+    },
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "65759eae4d572575c91d1f93"
+    },
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575a0854d572575c91d1f95"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad24"
+    },
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574d4dd8411eb2fd2e800f4"
+    },
+    {
+      "$oid": "6574da368411eb2fd2e800f7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f169cb866c54c0d39db9"
+  },
+  "address": {
+    "number": 23,
+    "street": "Salford Road",
+    "city": "Manchester",
+    "postcode": "M51 3IH"
+  },
+  "location": {
+    "latitude": 53.4767,
+    "longitude": -2.2718
+  },
+  "available_for_pickup_product_ids": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657594b3fdfd2265e035acc3"
+    },
+    {
+      "$oid": "65759552fdfd2265e035acc4"
+    },
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "65759eae4d572575c91d1f93"
+    },
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575a0854d572575c91d1f95"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad24"
+    },
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574d4dd8411eb2fd2e800f4"
+    },
+    {
+      "$oid": "6574da368411eb2fd2e800f7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657635878d236f137cd0e4d8"
+  },
+  "address": {
+    "number": 2,
+    "street": "Maplewood Avenue",
+    "city": "Manchester",
+    "postcode": "M14 5TU"
+  },
+  "location": {
+    "latitude": 53.457393,
+    "longitude": -2.248514
+  },
+  "available_for_pickup_product_ids": [
+    {
+      "$oid": "6571f925e991f6cac38e0295"
+    },
+    {
+      "$oid": "657594b3fdfd2265e035acc3"
+    },
+    {
+      "$oid": "65759552fdfd2265e035acc4"
+    },
+    {
+      "$oid": "6574f4258feff499e8701685"
+    },
+    {
+      "$oid": "6574f9ce8feff499e8701688"
+    },
+    {
+      "$oid": "6574fefd8feff499e870168a"
+    },
+    {
+      "$oid": "65759eae4d572575c91d1f93"
+    },
+    {
+      "$oid": "65759f9b4d572575c91d1f94"
+    },
+    {
+      "$oid": "6575a0854d572575c91d1f95"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad22"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad23"
+    },
+    {
+      "$oid": "6575d6a2fdfd2265e035ad24"
+    },
+    {
+      "$oid": "6574d3208411eb2fd2e800f3"
+    },
+    {
+      "$oid": "6574d4dd8411eb2fd2e800f4"
+    },
+    {
+      "$oid": "6574da368411eb2fd2e800f7"
+    }
+  ]
+}]

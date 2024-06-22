@@ -1,0 +1,29 @@
+db.getCollection('Partners').aggregate(
+  [
+    {
+      $lookup: {
+        from: 'PastOrders',
+        localField: 'orders_delivered.order_id',
+        foreignField: '_id',
+        as: 'total_cost'
+      }
+    },
+    { $unwind: { path: '$total_cost' } },
+    {
+      $project: {
+        first_name: 1,
+        last_name: 1,
+        total_cost: '$total_cost.total_cost',
+        commission: {
+          $multiply: [
+            '$total_cost.total_cost',
+            0.05
+          ]
+        }
+      }
+    },
+    { $sort: { total_cost: -1 } },
+    { $limit: 1 }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

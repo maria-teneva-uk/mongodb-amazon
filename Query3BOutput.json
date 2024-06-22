@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "65770b7e8411eb2fd2e801ab"
+  },
+  "first_name": "Derek",
+  "last_name": "Shepherd",
+  "current_orders": [
+    {
+      "order_items": [
+        {
+          "product_id": "6575bbc24d572575c91d1f99",
+          "quantity": 1
+        },
+        {
+          "product_id": "6574ecd78411eb2fd2e800ff",
+          "quantity": 1
+        }
+      ],
+      "total_cost": 15.99,
+      "status": "paid"
+    }
+  ]
+}]

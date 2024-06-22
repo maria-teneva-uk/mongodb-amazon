@@ -1,0 +1,32 @@
+db.getCollection('Ratings').aggregate(
+  [
+    {
+      $group: {
+        _id: '$product_id',
+        average_rating: { $avg: '$rating' }
+      }
+    },
+    { $match: { average_rating: { $gte: 4.9 } } },
+    {
+      $lookup: {
+        from: 'OtherProducts',
+        localField: '_id',
+        foreignField: '_id',
+        as: 'OtherProducts_info'
+      }
+    },
+    {
+      $match: { OtherProducts_info: { $ne: [] } }
+    },
+    { $sort: { average_rating: -1 } },
+    {
+      $project: {
+        _id: 0,
+        product_id: '$_id',
+        name: '$OtherProducts_info.name',
+        average_rating: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

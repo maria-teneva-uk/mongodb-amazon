@@ -1,0 +1,76 @@
+[{
+  "rating": 5,
+  "product_joined": {
+    "name": "Whispers of eternity",
+    "standard_price": 15
+  },
+  "customer_joined": {
+    "first_name": "Sarah"
+  }
+},
+{
+  "rating": 5,
+  "review_description": "good book!",
+  "review_title": "Great book!",
+  "product_joined": {
+    "name": "Dinosaurs",
+    "standard_price": 17
+  },
+  "customer_joined": {
+    "first_name": "Evlampia"
+  }
+},
+{
+  "rating": 5,
+  "review_description": "I really enjoyed reading through this!",
+  "review_title": "Great book!",
+  "product_joined": {
+    "name": "A Christmas Carol",
+    "standard_price": 5
+  },
+  "customer_joined": {
+    "first_name": "Evi"
+  }
+},
+{
+  "rating": 5,
+  "review_description": "good book!",
+  "review_title": "Great book!",
+  "product_joined": {
+    "name": "Dinosaurs",
+    "standard_price": 17
+  },
+  "customer_joined": {
+    "first_name": "Hannah"
+  }
+},
+{
+  "rating": 5,
+  "product_joined": {
+    "name": "The Housemaid",
+    "standard_price": 9.99
+  },
+  "customer_joined": {
+    "first_name": "Miranda"
+  }
+},
+{
+  "rating": 5,
+  "product_joined": {
+    "name": "Happy Place",
+    "standard_price": 13.99
+  },
+  "customer_joined": {
+    "first_name": "Miranda"
+  }
+},
+{
+  "rating": 5,
+  "product_joined": {
+    "name": "Whispers of eternity",
+    "standard_price": 15
+  },
+  "customer_joined": {
+    "first_name": "Mila"
+  }
+}]

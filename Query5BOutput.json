@@ -1,0 +1,63 @@
+[{
+  "average_rating": 5,
+  "product_id": {
+    "$oid": "657506fd8feff499e8701690"
+  },
+  "name": [
+    "Dinosaurs"
+  ]
+},
+{
+  "average_rating": 5,
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad17"
+  },
+  "name": [
+    "Whispers of eternity"
+  ]
+},
+{
+  "average_rating": 5,
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad19"
+  },
+  "name": [
+    "Fast soundtrack"
+  ]
+},
+{
+  "average_rating": 5,
+  "product_id": {
+    "$oid": "6575d50efdfd2265e035ad1d"
+  },
+  "name": [
+    "Airfryer5000"
+  ]
+},
+{
+  "average_rating": 5,
+  "product_id": {
+    "$oid": "6575159e8feff499e8701697"
+  },
+  "name": [
+    "OnePlus 9"
+  ]
+},
+{
+  "average_rating": 4.9,
+  "product_id": {
+    "$oid": "65750fd38feff499e8701693"
+  },
+  "name": [
+    "Lady Gaga:The Fame"
+  ]
+},
+{
+  "average_rating": 4.9,
+  "product_id": {
+    "$oid": "6574ecd78411eb2fd2e800ff"
+  },
+  "name": [
+    "SOS"
+  ]
+}]
